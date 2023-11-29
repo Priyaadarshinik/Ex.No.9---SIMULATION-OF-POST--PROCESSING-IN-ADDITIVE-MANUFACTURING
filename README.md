@@ -35,15 +35,18 @@
 
 ## Support Removal Process
 ![output](/output1.png)
+
 ![output](/output1.1.png)
 
 ## UV Curing of 3D printed part
-![1234_1](/output2.2.png)
+![output](/output2.2.png)
+
 ![output](/output3.png)
 
 ## Heat Treatment of 3D printed part
-![123_1](/output4.png)
-![123_2](/output5.png)
+![output](/output4.png)
+
+![output](/output5.png)
 
 ## Output:
 ![OUTPUT](/OUTPUT.jpg)
